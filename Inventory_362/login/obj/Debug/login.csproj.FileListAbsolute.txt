@@ -1,0 +1,55 @@
+C:\Users\Angel1\Desktop\login\bin\Debug\login.exe.config
+C:\Users\Angel1\Desktop\login\bin\Debug\login.exe
+C:\Users\Angel1\Desktop\login\bin\Debug\login.pdb
+C:\Users\Angel1\Desktop\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form1.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form2.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\Angel1\Desktop\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Angel1\Desktop\login\obj\Debug\login.exe
+C:\Users\Angel1\Desktop\login\obj\Debug\login.pdb
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form3.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form4.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form5.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form6.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form7.resources
+C:\Users\Angel1\Desktop\login\obj\Debug\login.Form8.resources
+C:\Users\henry\source\repos\login\bin\Debug\login.exe.config
+C:\Users\henry\source\repos\login\bin\Debug\login.exe
+C:\Users\henry\source\repos\login\bin\Debug\login.pdb
+C:\Users\henry\source\repos\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\henry\source\repos\login\obj\Debug\login.Form1.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Form2.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Form3.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Form4.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Form5.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Form6.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Form7.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Form8.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\henry\source\repos\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\login\obj\Debug\login.exe
+C:\Users\henry\source\repos\login\obj\Debug\login.pdb
+C:\Users\henry\source\repos\login\obj\Debug\login.Form9.resources
+C:\Users\henry\source\repos\login\bin\Debug\Login.mdf
+C:\Users\henry\source\repos\login\bin\Debug\Login_log.ldf
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\bin\Debug\Login.mdf
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\bin\Debug\Login_log.ldf
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\bin\Debug\login.exe.config
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\bin\Debug\login.exe
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\bin\Debug\login.pdb
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.csprojAssemblyReference.cache
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form2.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form3.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form4.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form5.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form6.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form7.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form8.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Form9.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.exe
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.pdb
+C:\Users\jwgar\Desktop\362 project\Inventory_362\login\obj\Debug\login.LoginForm.resources
